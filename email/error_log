@@ -1,0 +1,17 @@
+[27-May-2020 03:37:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'gred3696_ms'@'localhost' (using password: YES) in /home/homt3248/public_html/complaint/email/mail.php on line 2
+[27-May-2020 03:37:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/homt3248/public_html/complaint/email/mail.php on line 4
+[27-May-2020 03:37:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/homt3248/public_html/complaint/email/mail.php on line 5
+[27-May-2020 03:38:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'gred3696_ms'@'localhost' (using password: YES) in /home/homt3248/public_html/complaint/email/mail.php on line 2
+[27-May-2020 03:38:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/homt3248/public_html/complaint/email/mail.php on line 4
+[27-May-2020 03:38:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/homt3248/public_html/complaint/email/mail.php on line 5
+[27-May-2020 03:39:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/homt3248/public_html/complaint/email/mail.php on line 44
+[27-May-2020 03:39:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'gred3696_ms'@'localhost' (using password: YES) in /home/homt3248/public_html/complaint/email/mail.php on line 2
+[27-May-2020 03:39:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/homt3248/public_html/complaint/email/mail.php on line 4
+[27-May-2020 03:39:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/homt3248/public_html/complaint/email/mail.php on line 5
+[27-May-2020 03:47:46 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/homt3248/public_html/complaint/email/mail.php on line 43
+[27-May-2020 03:50:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'gred3696_ms'@'localhost' (using password: YES) in /home/homt3248/public_html/complaint/email/mail.php on line 2
+[27-May-2020 03:50:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/homt3248/public_html/complaint/email/mail.php on line 4
+[27-May-2020 03:50:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/homt3248/public_html/complaint/email/mail.php on line 5
+[18-Jul-2020 09:38:49 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'gred3696_ms'@'localhost' (using password: YES) in /home/homt3248/public_html/complaint/email/mail.php on line 2
+[18-Jul-2020 09:38:49 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/homt3248/public_html/complaint/email/mail.php on line 4
+[18-Jul-2020 09:38:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/homt3248/public_html/complaint/email/mail.php on line 5
